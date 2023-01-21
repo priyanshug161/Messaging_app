@@ -1,0 +1,11 @@
+Collection: "Whatsapp Group Messages"
+
+Documents:
+{
+"_id": ObjectId,
+"group_id": String,
+"sender_id": String,
+"sender_name": String,
+"message": String,
+"timestamp": Date,
+}
